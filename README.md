@@ -1,5 +1,5 @@
 # NodeFromScratch
-A simple node sever with ExpressJS and MongoDB
+A simple node sever with ExpressJS and MongoDB..
 
 ## To install node modules
 
